@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN stack and Unity3D**
 
-- 👨‍💻 All of my projects are available at [https://prayasj.github.io/](https://prayasj.github.io/)
+- 👨‍💻 All of my projects are available at [https://www.prayas.dev/](https://www.prayas.dev/)
 
-- 📝 I regularly write articles on [https://prayasj.github.io/#/blogs](https://prayasj.github.io/#/blogs)
+- 📝 I regularly write articles on [https://www.prayas.dev/#blogs](https://www.prayas.dev/#blogs)
 
 - 📫 How to reach me **prayas.jn24@gmail.com**
 
-- 📄 Know about my experiences [https://prayasj.github.io/#/about](https://prayasj.github.io/#/about)
+- 📄 Know about my experiences [https://www.prayas.dev/#experience](https://www.prayas.dev/#experience)
 
 - ⚡ Fun fact **I know how to exit vim.**
 
